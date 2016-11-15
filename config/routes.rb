@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :microposttests
+  resources :usertests
   resources :microposts
   resources :users
   root 'users#index'

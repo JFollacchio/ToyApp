@@ -1,0 +1,2 @@
+module MicroposttestsHelper
+end
