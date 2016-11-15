@@ -1,3 +1,3 @@
 class Usertest < ApplicationRecord
-  has_many :microposttests
+  has_many :microposttest
 end
