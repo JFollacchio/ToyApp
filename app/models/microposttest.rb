@@ -1,3 +1,3 @@
 class Microposttest < ApplicationRecord
-  belongs_to :usertest
+  #belongs_to :usertest
 end
